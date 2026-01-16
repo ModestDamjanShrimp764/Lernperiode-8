@@ -30,10 +30,19 @@ In dieser Sitzung habe ich mich für die Technologie Chart.js entschieden und mi
 Hello-World-Diagramm umgesetzt. Zudem habe ich eine einfache Projektstruktur erstellt, den Code in Visual Studio Codegeschrieben, im Browser getestet und die Arbeit im GitHub-Repository dokumentiert.
 
 # 16.01.26
-- [ ] Ein offizielles Chart.js-Tutorial vollständig nachprogrammieren
-- [ ] Die Funktionsweise der Diagramm-Konfiguration (Labels, Datasets, Optionen) genauer analysieren
-- [ ] Eigene Anpassungen am bestehenden Diagramm umsetzen (z.B. mehrere Datensätze oder anderer Diagrammtyp)
-- [ ] Die Dokumentation im README erweitern und die nächsten Erkenntnisse festhalten  
+- [x] Ein offizielles Chart.js-Tutorial vollständig nachprogrammieren
+- [x] Die Funktionsweise der Diagramm-Konfiguration (Labels, Datasets, Optionen) genauer analysieren
+- [x] Eigene Anpassungen am bestehenden Diagramm umsetzen (z.B. mehrere Datensätze oder anderer Diagrammtyp)
+- [x] Die Dokumentation im README erweitern und die nächsten Erkenntnisse festhalten  
+
+## Tutorial
+Ich habe das offizielle Chart.js „Getting Started“-Tutorial ausgewählt und das Bar-Chart-Beispiel vollständig in mein Projekt nachprogrammiert.  
+Dabei habe ich den Beispielcode in JavaScript umgesetzt und das Resultat im Browser getestet. 
+Zusätzlich habe ich das Diagramm angepasst, indem ich eigene Farben,
+eigene Bezeichnungen sowie veränderte Werte verwendet habe und habe eine Umschalt-Funktion eingebaut, mit der man per Button zwischen
+Liniendiagramm und Balkendiagramm wechseln kann.
+
+
 
 
 
