@@ -46,10 +46,12 @@ Liniendiagramm und Balkendiagramm wechseln kann.
 In dieser Sitzung habe ich ein offizielles Chart.js-Getting-Started-Tutorial vollständig nachprogrammiert und das Diagramm erfolgreich im Browser umgesetzt. Dabei habe ich die grundlegende Struktur der Diagramm-Konfiguration vertieft verstanden. Anschliessend habe ich eigene Anpassungen vorgenommen, indem ich ein Liniendiagramm mit unterschiedlich gefärbten Liniensegmenten sowie ein Balkendiagramm mit individuellen Farben pro Datenpunkt umgesetzt habe.Zusätzlich wurde eine Umschalt-Funktion implementiert, mit der zwischen den beiden Diagrammtypen gewechselt werden kann.
 
 ## 23.01.26
-- [ ] Die Dokumentation im README erweitern und die gemachten Verbesserungen kurz beschreiben
-- [ ] Die bestehende Diagramm-Lösung weiter verbessern
-- [ ] Die Funktionsweise von Optionen und Plugins genauer untersuchen und anwenden
-- [ ] Den bestehenden Code übersichtlich strukturieren und bei Bedarf kommentieren  
+- [ ] Beim Diagramm einen passenden Titel und einfache Beschriftungen für die Achsen hinzufügen, damit man direkt sieht, was die Daten bedeuten  
+- [ ] Die Anzeige der Werte verbessern, z.B. indem im Tooltip klar ersichtlich ist, in welcher Einheit (z.B. Tausend Stimmen) die Zahlen dargestellt sind 
+- [ ] Die Umschalt-Funktion zwischen Linien- und Balkendiagramm weiter verbessern, z.B. durch eine verständlichere Button-Beschriftung oder klarere Darstellung  
+- [ ] Das Diagramm optisch weiter anpassen z.B. durch Änderungen an Farben, Punkten oder Effekten damit es übersichtlicher wirkt
+- [ ] Eine kurze Erklärung direkt im Projekt ergänzen (z.B. unter dem Diagramm), damit klar ist, was dargestellt wird und wie man zwischen den Diagrammen wechseln kann  
+
 
 
 
