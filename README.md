@@ -46,12 +46,20 @@ Liniendiagramm und Balkendiagramm wechseln kann.
 In dieser Sitzung habe ich ein offizielles Chart.js-Getting-Started-Tutorial vollständig nachprogrammiert und das Diagramm erfolgreich im Browser umgesetzt. Dabei habe ich die grundlegende Struktur der Diagramm-Konfiguration vertieft verstanden. Anschliessend habe ich eigene Anpassungen vorgenommen, indem ich ein Liniendiagramm mit unterschiedlich gefärbten Liniensegmenten sowie ein Balkendiagramm mit individuellen Farben pro Datenpunkt umgesetzt habe.Zusätzlich wurde eine Umschalt-Funktion implementiert, mit der zwischen den beiden Diagrammtypen gewechselt werden kann.
 
 ## 23.01.26
-- [ ] Beim Diagramm einen passenden Titel und einfache Beschriftungen für die Achsen hinzufügen, damit man direkt sieht, was die Daten bedeuten  
-- [ ] Die Anzeige der Werte verbessern, z.B. indem im Tooltip klar ersichtlich ist, in welcher Einheit (z.B. Tausend Stimmen) die Zahlen dargestellt sind 
-- [ ] Die Umschalt-Funktion zwischen Linien- und Balkendiagramm weiter verbessern, z.B. durch eine verständlichere Button-Beschriftung oder klarere Darstellung  
-- [ ] Das Diagramm optisch weiter anpassen z.B. durch Änderungen an Farben, Punkten oder Effekten damit es übersichtlicher wirkt
-- [ ] Eine kurze Erklärung direkt im Projekt ergänzen (z.B. unter dem Diagramm), damit klar ist, was dargestellt wird und wie man zwischen den Diagrammen wechseln kann  
+- [x] Beim Diagramm einen passenden Titel und einfache Beschriftungen für die Achsen hinzufügen, damit man direkt sieht, was die Daten bedeuten  
+- [x] Die Anzeige der Werte verbesseIn dieser Sitzung habe ich die geplanten Arbeitspakete umgesetzt und das Diagramm weiter verbessert.
+- [x] Die Umschalt-Funktion zwischen Linien- und Balkendiagramm weiter verbessern, z.B. durch eine verständlichere Button-Beschriftung oder klarere Darstellung  
+- [x] Das Diagramm optisch weiter anpassen z.B. durch Änderungen an Farben, Punkten oder Effekten damit es übersichtlicher wirkt
+- [x] Eine kurze Erklärung direkt im Projekt ergänzen (z.B. unter dem Diagramm), damit klar ist, was dargestellt wird und wie man zwischen den Diagrammen wechseln kann  
 
+In dieser Sitzung habe ich die geplanten Arbeitspakete umgesetzt und das Diagramm weiter verbessert. Ich habe Titel und Achsenbeschriftungen ergänzt, damit klar ist, was dargestellt wird, und die Anzeige der Werte im Tooltip verständlicher gemacht. Zusätzlich wurde die Umschalt-Funktion zwischen Linien- und Balkendiagramm weiter ausgearbeitet und das Diagramm optisch angepasst, damit es übersichtlicher aussieht. Zum Schluss habe ich eine kurze Erklärung direkt im Projekt ergänzt, damit die Bedienung klar ist.
+
+## 13.02.26
+
+- [ ] Die bestehenden Diagramme weiter testen und kleine Anpassungen vornehmen, damit Darstellung und Bedienung klar und verständlich bleiben
+- [ ] Weitere Einstellungen von Chart.js ausprobieren und gezielt anpassen (z.B. Legende, Schriftgrösse oder Farben), um das Diagramm übersichtlicher zu machen
+- [ ] Die angezeigten Daten erweitern oder verändern (z.B. zusätzliche Werte oder andere Reihenfolge), um zu testen, wie sich das Diagramm verhält
+- [ ] Eine weitere kleine Funktion im Projekt umsetzen (z.B. zusätzliche Anzeige, Hinweistext oder einfache Interaktion), um das Projekt sinnvoll zu erweitern
 
 
 
