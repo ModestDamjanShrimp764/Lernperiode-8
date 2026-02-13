@@ -62,6 +62,8 @@ In dieser Sitzung habe ich die geplanten Arbeitspakete umgesetzt und das Diagram
 - [x] Eine weitere kleine Funktion im Projekt umsetzen (z.B. zusätzliche Anzeige, Hinweistext oder einfache Interaktion), um das Projekt sinnvoll zu erweitern
 
 Ich habe heute meine Arbeitspakete erledigt und die Abgabe hochgeladen mit viel Kämpfen aber.
+URL:
+https://modestdamjanshrimp764.github.io/chartjs-projekt/
 
 
 
