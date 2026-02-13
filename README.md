@@ -56,10 +56,12 @@ In dieser Sitzung habe ich die geplanten Arbeitspakete umgesetzt und das Diagram
 
 ## 13.02.26
 
-- [ ] Die bestehenden Diagramme weiter testen und kleine Anpassungen vornehmen, damit Darstellung und Bedienung klar und verständlich bleiben
-- [ ] Weitere Einstellungen von Chart.js ausprobieren und gezielt anpassen (z.B. Legende, Schriftgrösse oder Farben), um das Diagramm übersichtlicher zu machen
-- [ ] Die angezeigten Daten erweitern oder verändern (z.B. zusätzliche Werte oder andere Reihenfolge), um zu testen, wie sich das Diagramm verhält
-- [ ] Eine weitere kleine Funktion im Projekt umsetzen (z.B. zusätzliche Anzeige, Hinweistext oder einfache Interaktion), um das Projekt sinnvoll zu erweitern
+- [x] Die bestehenden Diagramme weiter testen und kleine Anpassungen vornehmen, damit Darstellung und Bedienung klar und verständlich bleiben
+- [x] Weitere Einstellungen von Chart.js ausprobieren und gezielt anpassen (z.B. Legende, Schriftgrösse oder Farben), um das Diagramm übersichtlicher zu machen
+- [x] Die angezeigten Daten erweitern oder verändern (z.B. zusätzliche Werte oder andere Reihenfolge), um zu testen, wie sich das Diagramm verhält
+- [x] Eine weitere kleine Funktion im Projekt umsetzen (z.B. zusätzliche Anzeige, Hinweistext oder einfache Interaktion), um das Projekt sinnvoll zu erweitern
+
+Ich habe heute meine Arbeitspakete erledigt und die Abgabe hochgeladen mit viel Kämpfen aber.
 
 
 
